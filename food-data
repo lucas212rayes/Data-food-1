@@ -1,0 +1,3 @@
+!pip install streamlit --quiet
+!pip install pandas --quiet
+!pip install matplotlib --quiet
